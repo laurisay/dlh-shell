@@ -1,1 +1,2 @@
-chown -h betty:school hello
+#!/bin/bash
+chown -R vincent:staff .
