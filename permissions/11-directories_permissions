@@ -1,1 +1,1 @@
-chmod -R g+X,o+X .
+find . -type d -exec chmod 711 {} \;
