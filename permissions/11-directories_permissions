@@ -1,1 +1,1 @@
-chmod -R u+X .
+chmod -R +X .
