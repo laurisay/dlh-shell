@@ -1,1 +1,2 @@
-find . -type d -exec chmod 711 {} \;
+#!/bin/bash
+chmod -R a+X 
