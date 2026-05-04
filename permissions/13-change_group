@@ -1,1 +1,1 @@
-chown school:school hello
+sudo chown :school hello
